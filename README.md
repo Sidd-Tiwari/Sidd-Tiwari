@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web-technology
 - 💞️ I’m looking to collaborate on web-dev
-- 📫 How to reach me via LinkedIn 
+- 📫 You reach me via LinkedIn 
 
 <!---
 Sidd-Tiwari/Sidd-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
