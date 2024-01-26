@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sidd-Tiwari
+- 👋 Hi, I’m @Siddharth-Tiwari
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web-technology
 - 💞️ I’m looking to collaborate on web-dev
