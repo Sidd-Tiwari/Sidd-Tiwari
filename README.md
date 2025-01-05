@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharth-Tiwari
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning & working on Web-Technology
+- 🌱 I’m currently learning & working on Web-Technology & Android Development
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 You reach me via LinkedIn 
 
