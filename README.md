@@ -1,212 +1,113 @@
-
-<!-- Banner -->
-<!-- <p align="center">
-  <img src="main/banner.png" alt="Siddharth Tiwari Banner" width="100%">
-</p> -->
-
-<!-- Animated Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00A8FF;">Siddharth Tiwari</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=23&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+PHP+%7C+Python+%7C+AI+Enthusiast;Frontend+%26+Backend+Developer;Open+Source+Contributor;Tech+Explorer+🚀">
-</p>
-
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</p>
-
-# 🚀 About Me
-
-- 🎓 **CSE Student** — Maharishi University of Information Technology  
-- 💻 Full Stack Developer (Java, PHP, React, Flask)  
-- 🤖 AI Enthusiast — Multimodal Emotion Detection  
-- 📱 Learning Android & Full Stack Java  
-- 🤝 Open to collaborate on **Web Apps, APIs & AI Projects**
-
----
-
-# 🛠️ Tech Stack
-
-### **Languages**
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-### **Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### **Frameworks / Tools**
-<p>
-<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### **Databases**
-<p>
-<img src="https://img.shields.io/badge/Oracle-DC382D?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</p>
-
-# ⭐ Featured Projects
-
-### 🎭 **Emotion Detector — Python, Flask, HuggingFace**  
-```
-
-✔ Multimodal Emotion Detection (Text + Speech + Face)
-✔ Flask REST API + Responsive UI
-✔ Trend Visualization & Wellness Insights
-
-```
-
-### 💼 **MLM System — PHP, MySQL, AJAX**  
-```
-
-✔ Dynamic Tree Structure
-✔ Wallet System
-✔ Level Income Logic
-✔ Admin Dashboard
-
-```
-
-### 📝 **Blogging System — PHP, MySQL**  
-```
-
-✔ Admin + Author Panel
-✔ Blog CRUD
-✔ Categories & Comments
-
-```
-
-### 🌐 **Portfolio Website**  
-```
-
-✔ Modern UI
-✔ Projects + Contact Form
-✔ Live on Vercel
-
-```
-
-### ☕ **Coffee Cafe Website**  
-```
-
-✔ Animated UI
-✔ Menu + Order Page
-
-```
-
-### 📱 **Android Apps**  
-```
-
-✔ GST Calculator
-✔ Basic Calculator App
-
-```
-
-### 📚 **Library Management System**  
-```
-
-✔ Issue/Return Books
-✔ Student Records
-✔ Admin Controls
-
-```
-
-
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</p>
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidd-Tiwari&theme=tokyonight&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C"/>
-</p>
-
-<!-- ---
-
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sidd-Tiwari&show_icons=true&theme=tokyonight&count_private=true"/>
+# Siddharth Tiwari
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd-Tiwari&layout=compact&theme=tokyonight"/>
+**Building things that ship**
+<p align="center">
+  <a href="https://siddharth-tiwari.vercel.app"><img src="https://readme-typing-svg.demolab.com/?lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+REST+APIs;Android+%7C+Kotlin+%7C+Jetpack+Compose;Always+Learning,+Always+Building&center=true&width=600&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" /></a>
+</p>
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://siddharth-tiwari.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-tiwari-394451271)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sidd-Tiwari)
+[![Gmail](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:tiwarisid022018@gmail.com)
+
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidd-Tiwari&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Sidd-Tiwari?label=Followers&style=flat&color=2E9EF7" alt="followers" /></p>
+<br>
+
+## `Tech Stack`
+
+<table>
+<tr><td><b>Language</b></td><td>
+<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=springboot"/>
+<img src="https://img.shields.io/badge/Hibernate-black?style=flat-square&logo=hibernate"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Maven-black?style=flat-square&logo=apachemaven"/>
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap"/>
+</td></tr>
+<tr><td><b>Data</b></td><td>
+<img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Oracle-black?style=flat-square&logo=oracle"/>
+</td></tr>
+<tr><td><b>Mobile</b></td><td>
+<img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-black?style=flat-square&logo=jetpackcompose"/>
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman"/>
+</td></tr>
+</table>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Sidd-Tiwari&theme=tokyonight" height="165"/>
+## `Featured Projects`
+
+
+```
+── Hotel Management System ─────────────────────────────
+Microservices HMS covering reservations, check-in/out,
+customer management, staff ops, payments & billing.
+
+  stack   Spring Boot · React · MySQL · JWT · Docker
+  scale   14+ REST APIs · deployed on Render/Vercel/Railway
+  repo    github.com/Sidd-Tiwari/hms-backend
+```
+
+```
+── Learning Management System ──────────────────────────
+Full-stack academic platform — student records, courses,
+assignments, attendance, tests & result processing.
+
+  stack   Java · Spring Boot · React · MySQL · RBAC
+  scale   16+ REST APIs · 500+ users/records handled
+  repo    github.com/Sidd-Tiwari/springdale-erp-backend
+```
+
+```
+── Emotion-Aware Chatbot ───────────────────────────────
+Sentiment-analysis chatbot on pretrained NLP models,
+trained on Kaggle + Google GoEmotions datasets.
+
+  stack   Python · NLP · GoEmotions
+  result  80% user retention · 40% new-user engagement
+          in 48h · 🥉 2nd runner-up @ Innovative Arena
+          Hackathon (6000+ participants)
+```
+
+```
+── GST Calculator ──────────────────────────────────────
+Real-time GST calculator Android app with dynamic rate
+selection and with/without-GST breakdowns.
+
+  stack   Kotlin · Jetpack Compose
+  repo    github.com/Sidd-Tiwari/gst-calculator
+```
+<br>
+
+<div align="center">
+
+```
+$ echo "open to collaborating on AI · full-stack builds"
+```
+
+<sub>⭐ from LMS platforms to AI chatbots — thanks for reading the source.</sub>
 
 </div>
-
---- -->
-
-# 📈 GitHub Activity Summary
-
-- **Total Repositories:** 70+  
-- **Contributions (Last 12 Months):** 239  
-- **Profile Views:** 8  
-- **Achievements:** Quickdraw, Yolo, Pull Shark  
-
----
-
-# 🔗 Important Links
-
-### 🔹 **Portfolio:**  
-👉 https://sidd-tiwari.vercel.app/
-
-### 🔹 **LeetCode:**  
-👉 https://leetcode.com/u/Sidd-Tiwari/
-
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</p>
-
-# 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/siddharth-tiwari-394451271/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sidd-Tiwari">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:tiwarisid022018@gmail.com">
-<img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-
-
-<p align="center">
-  🔥 Thanks for visiting! Don't forget to star⭐ your favorite repos!  
-</p>
