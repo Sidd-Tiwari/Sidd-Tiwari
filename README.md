@@ -13,14 +13,12 @@
 <br>
 
 <!--## `LinkedIn`
-
+-->
 <table>
 <tr>
 <td width="90" align="center">
 <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64" width="48" style="border-radius:50%" />
 </td>
--->
-<table>
 <td>
 
 **Siddharth Tiwari** — Software Engineer · Java & Spring Boot · Microservices · Distributed Systems · System Design · REST APIs · Generative AI & LLM Integration
