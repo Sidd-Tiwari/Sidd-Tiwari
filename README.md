@@ -167,7 +167,7 @@ Jun 2026 – Present · 3 mos · Varanasi, Uttar Pradesh, India · On-site
 
 </td>
 </tr>
-<tr><td colspan="2"><hr></td></tr>
+<tr><td colspan="2"></td></tr>
 <tr>
 <td width="60" align="center"><img src="https://www.google.com/s2/favicons?domain=nareshit.com&sz=64" width="40" style="border-radius:50%" /></td>
 <td>
@@ -180,7 +180,7 @@ Jun 2025 – May 2026 · 1 yr · Hyderabad, Telangana, India · On-site
 
 </td>
 </tr>
-<tr><td colspan="2"><hr></td></tr>
+<tr><td colspan="2"></td></tr>
 <tr>
 <td width="60" align="center"><img src="https://www.google.com/s2/favicons?domain=https://www.maharishiuniversity.ac.in/&sz=64" width="40" style="border-radius:50%" /></td>
 <td>
@@ -193,7 +193,7 @@ Feb 2023 – May 2026 · 3 yrs 4 mos · Lucknow, Uttar Pradesh, India · On-site
 
 </td>
 </tr>
-<tr><td colspan="2"><hr></td></tr>
+<tr><td colspan="2"></td></tr>
 <tr>
 <td width="60" align="center"><img src="https://www.google.com/s2/favicons?domain=ieee.org&sz=64" width="40" style="border-radius:50%" /></td>
 <td>
