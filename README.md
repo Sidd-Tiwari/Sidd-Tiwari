@@ -158,7 +158,7 @@
 
 <table>
 <tr>
-<td width="60" align="center"><img src="https://www.google.com/s2/favicons?domain=abhyutthanamdigital.com&sz=64" width="40" style="border-radius:50%" /></td>
+<td width="60" align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb4Vy0v5KVKHKzv-AMrIh9pWS4ph1c1YrER3d25O0VXg&s=10" width="40" style="border-radius:50%" /></td>
 <td>
 
 **Project Lead** · Abhyutthanam Digital · Full-time
@@ -184,7 +184,7 @@ Jun 2025 – May 2026 · 1 yr · Hyderabad, Telangana, India · On-site
 </tr>
 <tr><td colspan="2"><hr></td></tr>
 <tr>
-<td width="60" align="center"><img src="https://www.google.com/s2/favicons?domain=muit.ac.in&sz=64" width="40" style="border-radius:50%" /></td>
+<td width="60" align="center"><img src="https://www.google.com/s2/favicons?domain=https://www.maharishiuniversity.ac.in/&sz=64" width="40" style="border-radius:50%" /></td>
 <td>
 
 **Students Welfare Representative** · Maharishi University of Information Technology
