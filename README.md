@@ -1,34 +1,30 @@
 <div align="center">
 
-# Siddharth Tiwari
+<!--# Siddharth Tiwari
 
 **Building things that ship**
 
 <p align="center">
   <a href="https://siddharth-tiwari.vercel.app"><img src="https://readme-typing-svg.demolab.com/?lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+Scalable+REST+APIs;Applied+AI+%7C+Claude+API+%7C+RAG+%7C+MCP;Always+Learning,+Always+Building&center=true&width=600&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" /></a>
 </p>
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://siddharth-tiwari.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-tiwari-394451271/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sidd-Tiwari/)
-[![Gmail](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:tiwarisid022018@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Sidd-Tiwari&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Sidd-Tiwari?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+-->
 
 </div>
 <br>
 
-## `LinkedIn`
+<!--## `LinkedIn`
 
 <table>
 <tr>
 <td width="90" align="center">
 <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64" width="48" style="border-radius:50%" />
 </td>
+-->
+<table>
 <td>
 
 **Siddharth Tiwari** — Software Engineer · Java & Spring Boot · Microservices · Distributed Systems · System Design · REST APIs · Generative AI & LLM Integration
+<br>
 📍 India &nbsp;·&nbsp; 1,355 followers &nbsp;·&nbsp; 500+ connections
 > *"Turning Ideas Into Scalable Digital Solutions."*
 
@@ -38,14 +34,15 @@
 </tr>
 </table>
 <br>
-
+<!--
 ## `Tech Stack`
-
+-->
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,kotlin,postgres,mysql,mongodb,docker,aws,git,github,vscode&theme=dark" alt="Skill icons" />
 </div>
 <br>
 
+<!--
 <details open>
 <summary><b>Languages</b></summary>
 <br>
@@ -151,11 +148,12 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter)](https://jupyter.org/)
 
 </details>
+
 <br>
 
 <sub>💡 Click any badge to visit the tech's official site. Click a category header above to expand/collapse it.</sub>
 <br><br>
-
+-->
 ## `Experience`
 
 <table>
@@ -220,17 +218,15 @@ Aug 2024 – Dec 2024 · 5 mos · Hybrid
 
 | Project | What it does | Stack |
 |---|---|---|
-| [ResearchOps](#researchops) | Autonomous research agent — RAG + web search + multi-step workflows | `Python` `FastAPI` `Claude API` `RAG` `MCP` |
+| [ResearchOps](https://github.com/Sidd-Tiwari/researchops) | Autonomous research agent — RAG + web search + multi-step workflows | `Python` `FastAPI` `Claude API` `RAG` `MCP` |
 | [RecoFlow](#recoflow) | Multi-tenant fintech SaaS — explainable transaction reconciliation | `Java 21` `Spring Boot` `PostgreSQL` `React` |
-| [Springdale School ERP](#springdale-school-erp) | Production-style school ERP with RBAC and Flyway migrations | `Java` `Spring Boot` `MySQL` `React` |
-| [Hotel Management System](#hotel-management-system) | Full guest booking + admin platform, OTP + JWT auth | `Java` `Spring Boot` `React` `TypeScript` |
-| [Hotel Management CMS](#hotel-management-cms) | Hotel admin/CMS starter kit | `Java` `Spring Boot` `MySQL` `Docker` |
-| [Real-Time Chat Application](#real-time-chat-application) | WebSocket + STOMP messaging with SockJS fallback | `Java 21+` `Spring Boot` `WebSocket` |
-| [Working LLM](#working-llm) | Multi-provider LLM chat UI (Ollama, vLLM, LocalAI) | `Python` `FastAPI` `Docker` |
-| [GST Calculator](#gst-calculator) | Native Android tax calculator | `Kotlin` `Jetpack Compose` |
-
+| [Springdale School ERP](https://github.com/Sidd-Tiwari/springdale-erp-backend) | Production-style school ERP with RBAC and Flyway migrations | `Java` `Spring Boot` `MySQL` `React` |
+| [Hotel Management System](https://github.com/Sidd-Tiwari/hms-backend) | Full guest booking + admin platform, OTP + JWT auth | `Java` `Spring Boot` `React` `TypeScript` |
+| [Real-Time Chat Application](https://github.com/Sidd-Tiwari/Real-Time-Chat-Application) | WebSocket + STOMP messaging with SockJS fallback | `Java 21+` `Spring Boot` `WebSocket` |
+| [Working LLM](https://github.com/Sidd-Tiwari/working-llm) | Multi-provider LLM chat UI (Ollama, vLLM, LocalAI) | `Python` `FastAPI` `Docker` |
+| [GST Calculator](https://github.com/Sidd-Tiwari/gst-calculator) | Native Android tax calculator | `Kotlin` `Jetpack Compose` |
 <br>
-
+<!--
 <details>
 <summary><h3 style="display:inline">🔬 ResearchOps</h3></summary>
 <br>
@@ -409,6 +405,7 @@ Aug 2024 – Dec 2024 · 5 mos · Hybrid
 
 </details>
 <br>
+-->
 
 ## `LeetCode Progress`
 
@@ -417,11 +414,13 @@ Aug 2024 – Dec 2024 · 5 mos · Hybrid
 </div>
 <br>
 
+<!--
 <div align="center">
 
 **Annual Medals**
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sidd-Tiwari&filter=annual&border=no-border&theme=github-dark" alt="LeetCode Annual Badges" />
+
 
 **All Badges** <sub>(monthly badges included — updates automatically as new ones are earned)</sub>
 
@@ -431,6 +430,7 @@ Aug 2024 – Dec 2024 · 5 mos · Hybrid
 
 <sub>Live from <a href="https://leetcode.com/u/Sidd-Tiwari/">leetcode.com/u/Sidd-Tiwari</a> via <a href="https://github.com/KevzPeter/Leetcode-Badge-Showcase">Leetcode-Badge-Showcase</a> — no manual updates needed as you earn new badges.</sub>
 <br><br>
+-->
 
 ## `Licenses & Certifications`
 
@@ -457,9 +457,10 @@ Aug 2024 – Dec 2024 · 5 mos · Hybrid
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=iitb.ac.in&sz=64" width="28" style="border-radius:50%"/></td><td><b>Spoken Tutorial</b> — IIT Bombay · Issued Dec 2022<br/><sub>Skills: Problem Solving, Analytical Skills</sub></td></tr>
 <tr><td align="center"><img src="https://www.google.com/s2/favicons?domain=iitk.ac.in&sz=64" width="28" style="border-radius:50%"/></td><td><b>Techkriti</b> — IIT Kanpur · Issued Apr 2023<br/><sub>Manoeuvre-Robo</sub></td></tr>
 </table>
-
+<!--
 <sub>Full list with credential links on <a href="https://www.linkedin.com/in/siddharth-tiwari-394451271/">LinkedIn</a>.</sub>
-<br><br>
+-->
+<br>
 
 ## `Achievements`
 
@@ -478,5 +479,13 @@ $ echo "open to collaborating on AI · full-stack builds"
 ```
 
 <sub>⭐ from ERP platforms to AI research agents — thanks for reading the source.</sub>
+<br><br><br>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://siddharth-tiwari.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-tiwari-394451271/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sidd-Tiwari/)
+[![Gmail](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:tiwarisid022018@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Sidd-Tiwari&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Sidd-Tiwari?label=Followers&style=flat&color=2E9EF7" alt="followers" />
 
 </div>
