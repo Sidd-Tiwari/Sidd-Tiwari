@@ -161,7 +161,7 @@
 
 **Project Lead** · Abhyutthanam Digital · Full-time
 <br>
-Jun 2026 – Present · 3 mos · Varanasi, Uttar Pradesh, India · On-site
+Jun 2026 – Present · Varanasi, Uttar Pradesh, India · On-site
 <br>
 `Spring Security` `Full-Stack Development` `+1 skill`
 
